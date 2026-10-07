@@ -3,8 +3,9 @@
 ###### This case study was developed entirely in **Power BI** using a **synthetic randomized banking dataset** from Kaggle that does not represent any real bank.
 
 ## Executive Summary:
-Using **Power Query**, I cleaned and prepared the data for analysis before building the **semantic model** in **Model View**. I established the necessary relationships and cardinalities between the tables and then created an interactive Power BI report with four pages: **Overview, Loan Performance, Branch Performance, and Risk & Fraud**.  
-The report highlights key banking metrics and trends as:
+Using **Power Query**, I cleaned and prepared the data for analysis before building the **semantic model** in **Model View**. I established the necessary relationships and cardinalities between the tables, created the required **DAX measures**, and then built an interactive Power BI report with four pages: **Overview, Loan Performance, Branch Performance, and Risk & Fraud**.
+
+The report highlights key banking metrics and trends such as:
 1. **Loan performance and trends**
 2. **Branch performance and customers**
 3. **Risk and fraud analysis**
@@ -12,14 +13,14 @@ The report highlights key banking metrics and trends as:
 ###### The final project is fully functional, connected, and tested, combining **data preparation, modeling, visualization, and analysis** in line with the core **PL-300 skills**.
 
 ## Objective:
-This project aims to analyze the bank’s overall performance across its loan portfolio, branches, and financial risk areas. The analysis focuses on understanding how the loan portfolio is performing, identifying which branches are performing well or underperforming, and determining where the bank’s main areas of financial risk are. The goal is to provide insights that can help support informed business decisions.
+This project aims to analyze the bank’s overall performance across its loan portfolio, branches, and financial risk areas. The analysis focuses on understanding how the loan portfolio is performing, identifying which branches are performing well or underperforming, and determining where the bank’s main areas of financial risk are. The goal is to provide insights that can help support better business decisions.
 
 **Key questions:**
 1. **How is the loan portfolio performing?**
 2. **Which branches are performing best, and where is performance weaker?**
 3. **Where are the bank's main areas of financial risk?**
 
-![Overview Page](03_Images/01_OverviewPage.png)
+![Overview Page](03_Images/01_OverviewPage.png) 
 
 ## Methodology:
 1. **Use Power Query to clean, transform, and prepare the data for analysis**
@@ -27,11 +28,11 @@ This project aims to analyze the bank’s overall performance across its loan po
 3. **Build an interactive Power BI dashboard to visualize key metrics, trends, and insights**
 
 ## Power BI Skills:
-**Power Query:** Data Cleaning & Transformation
-**Data Modeling:** Relationships, Cardinalities & Filters
-**DAX:** Measures, Calculated Columns & Calculated Tables
-**Visualization:** Charts, KPI Cards, Tooltips & Visual Calculations
-**Analysis:** KPI Analysis, Trend Analysis & Interactive Report Development
+**Power Query:** Data Cleaning & Transformation  
+**Data Modeling:** Relationships, Cardinalities & Filters  
+**DAX:** Measures, Calculated Columns & Calculated Tables  
+**Visualization:** Charts, KPI Cards, Tooltips & Visual Calculations  
+**Analysis:** KPI Analysis, Trend Analysis & Interactive Report Development  
 
 ## Results & Business Recommendation:
 This report gives stakeholders an interactive overview of the bank’s **loan portfolio, branch performance, and risk & fraud indicators**. Bringing these areas together in one report makes it easier to monitor key KPIs, identify trends, and compare performance across different years and locations without having to rely on separate manual analyses.
