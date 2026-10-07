@@ -19,7 +19,7 @@ This project aims to analyze the bank’s overall performance across its loan po
 2. **Which branches are performing best, and where is performance weaker?**
 3. **Where are the bank's main areas of financial risk?**
 
-![Overview Page](IMAGES/01_OverviewPage.png)
+![Overview Page](03_Images/01_OverviewPage.png)
 
 ## Methodology:
 1. **Use Power Query to clean, transform, and prepare the data for analysis**
